@@ -1,0 +1,24 @@
+Stage 1: Planning
+Goal: Define the project scope and determine if the project is feasible.
+Key Activities: Cost-benefit analysis, project scheduling, and resource allocation.
+Output: Project Plan and Feasibility Study.
+Stage 2: Analysis
+Goal: Determine exactly what the system should do based on user needs.
+Key Activities: Requirement gathering, stakeholder interviews, and identifying system constraints.
+Output: Software Requirement Specification (SRS) document.
+Stage 3: Design
+Goal: Plan the technical hierarchy and 'blueprint' of the system.
+Key Activities: Creating UML diagrams, database schemas, and User Interface (UI) mockups.
+Output: System Architecture Design.
+Stage 4: Implementation
+Goal: Convert the design blueprints into a functional software product.
+Key Activities: Writing code in Java, following coding standards, and compiling the program.
+Output: Functional Source Code.
+Stage 5: Testing
+Goal: Identify and fix bugs to ensure the software meets all requirements.
+Key Activities: Unit testing, integration testing, and User Acceptance Testing (UAT).
+Output: Bug Reports and Test Results.
+Stage 6: Deployment & Maintenance
+Goal: Release the software to the user and keep it running smoothly over time.
+Key Activities: Installing the software, fixing newly discovered bugs, and adding updates.
+Output: Final Product and Maintenance Logs.

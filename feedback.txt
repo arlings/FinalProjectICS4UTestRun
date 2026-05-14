@@ -1,0 +1,10 @@
+Planning is the first step; it’s where we define the project scope and check if the idea is technically and financially feasible.
+Analysis is about gathering requirements to understand exactly WHAT the user needs before any building begins.
+Design is the 'blueprint' phase; it's where we decide HOW the system will work using UML diagrams and data models.
+Implementation is the actual coding phase where developers write the source code in a language like Java.
+Testing is the quality control stage where we find and fix bugs to ensure the software works as intended.
+Deployment is the 'Launch' phase where the software is installed and made available for the user to use.
+A bug report is a key output of the Testing phase, documenting where the software failed to meet requirements.
+In the Waterfall model, the Implementation (coding) phase starts as soon as the Design blueprints are finalized.
+The 'M' stands for Maintenance, which involves fixing new issues and updating the software after it has been released.
+Stakeholder interviews are a core part of Requirement Gathering, which happens during the Analysis phase.

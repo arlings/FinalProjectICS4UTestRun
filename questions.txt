@@ -1,0 +1,60 @@
+Which SDLC phase involves performing a cost-benefit analysis and defining project scope?
+Analysis
+Planning
+Design
+Implementation
+Planning
+During which stage are User Requirement Specifications (URS) and SRS documents created?
+Design
+Testing
+Analysis
+Deployment
+Analysis
+In which phase would a developer create a UML Class Diagram or a database schema?
+Planning
+Implementation
+Analysis
+Design
+Design
+Which stage is focused on the actual writing of the source code in a language like Java?
+Implementation
+Analysis
+Testing
+Maintenance
+Implementation
+What is the primary goal of the 'Testing' phase in the SDLC?
+To write documentation
+To find and fix bugs
+To deploy the app to the store
+To gather requirements
+To find and fix bugs
+Which phase involves the installation of the software on the customer’s hardware?
+Design
+Analysis
+Deployment
+Planning
+Deployment
+A 'Bug Report' is a typical output of which SDLC stage?
+Testing
+Design
+Implementation
+Planning
+Testing
+Which stage occurs immediately after the Design phase in a traditional Waterfall model?
+Analysis
+Testing
+Deployment
+Implementation
+Implementation
+What does the 'M' in some SDLC models stand for?
+Management
+Marketing
+Maintenance
+Manufacturing
+Maintenance
+Which phase involves interview sessions with stakeholders to understand requirements?
+Design
+Implementation
+Analysis
+Planning
+Analysis
